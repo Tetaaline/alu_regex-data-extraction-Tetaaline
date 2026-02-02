@@ -1,0 +1,31 @@
+{
+  "emails": [
+    "J*@example.com",
+    "j*@company.co.uk"
+  ],
+  "phones": [
+    "0792690739"
+  ],
+  "credit_cards": [
+    "** ** ** 3456",
+    "** ** ** 3456",
+    "** ** ** 0000"
+  ],
+  "time": [
+    "12:30",
+    "2:45",
+    "14:30",
+    "23:59"
+  ],
+  "money": [
+    "$19.99",
+    "$1,",
+    "$10"
+  ],
+  "unsafe_input_detected": true,
+  "ignored_patterns": [
+    "script tags",
+    "javascript urls",
+    "sql keywords"
+  ]
+}

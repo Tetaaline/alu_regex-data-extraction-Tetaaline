@@ -1,0 +1,33 @@
+Hello Team,
+
+Reach me at Jonhson.Murangwa@example.com or at work: j.murangwa@company.co.uk.
+Visit our sites: https://www.example.com, http://sub.example.org/page?q=test
+
+Contacts:
+Office: (123) 456-7890
+Mobile: 250792690739
+Fax: 123.456.7890
+Invalid: 1234567890, 12-3456-7890
+
+Credit cards:
+Valid: 1234 5678 9012 3456, 1234-5678-9012-3456
+Invalid: 1234-5678-9012-345, 0000 0000 0000 0000
+
+Meeting times:
+12:30, 2:45 PM, 14:30, 23:59
+
+HTML examples:
+<p>Hello World</p>
+<div class="container">Content</div>
+<img src="image.jpg" alt="desc">
+<script>alert('hacked');</script>
+
+Hashtags:
+#DataExtraction #ALU #RegexChallenge
+
+Currency:
+$19.99, $1,234.56, $1000
+
+Malicious examples:
+<script src="evil.js"></script>
+DROP TABLE users;
